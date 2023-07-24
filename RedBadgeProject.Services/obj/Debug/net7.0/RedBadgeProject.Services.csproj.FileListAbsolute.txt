@@ -1,0 +1,17 @@
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Services.deps.json
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Services.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Services.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Data.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Models.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Data.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\bin\Debug\net7.0\RedBadgeProject.Models.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.csproj.AssemblyReference.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.AssemblyInfoInputs.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.AssemblyInfo.cs
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.csproj.CopyComplete
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\refint\RedBadgeProject.Services.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\RedBadgeProject.Services.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Services\obj\Debug\net7.0\ref\RedBadgeProject.Services.dll

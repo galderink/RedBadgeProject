@@ -1,0 +1,12 @@
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\bin\Debug\net7.0\RedBadgeProject.Models.deps.json
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\bin\Debug\net7.0\RedBadgeProject.Models.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\bin\Debug\net7.0\RedBadgeProject.Models.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.csproj.AssemblyReference.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.AssemblyInfoInputs.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.AssemblyInfo.cs
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\refint\RedBadgeProject.Models.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\RedBadgeProject.Models.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Models\obj\Debug\net7.0\ref\RedBadgeProject.Models.dll

@@ -1,0 +1,14 @@
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\bin\Debug\net7.0\RedBadgeProject.Data.deps.json
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\bin\Debug\net7.0\RedBadgeProject.Data.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\bin\Debug\net7.0\RedBadgeProject.Data.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.csproj.AssemblyReference.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.AssemblyInfoInputs.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.AssemblyInfo.cs
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\refint\RedBadgeProject.Data.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.pdb
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\ref\RedBadgeProject.Data.dll
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\bin\Debug\net7.0\RedBadgeProject.Data.runtimeconfig.json
+C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.Data\obj\Debug\net7.0\RedBadgeProject.Data.genruntimeconfig.cache
