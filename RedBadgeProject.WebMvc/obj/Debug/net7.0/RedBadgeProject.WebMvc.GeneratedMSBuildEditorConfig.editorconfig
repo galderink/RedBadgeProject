@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\garre\OneDrive\Documents\ElevenFifityProjects\codingFoundations\dotnetProjects\RedBadgeProject\RedBadgeProject.WebMvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/AccountStatus/AccountStatusDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFN0YXR1c1xBY2NvdW50U3RhdHVzRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Account/UserPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Home/Index.cshtml]
@@ -32,12 +40,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Messages/CreateMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/UserClass/UsersClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNsYXNzXFVzZXJzQ2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/garre/OneDrive/Documents/ElevenFifityProjects/codingFoundations/dotnetProjects/RedBadgeProject/RedBadgeProject.WebMvc/Views/_ViewImports.cshtml]

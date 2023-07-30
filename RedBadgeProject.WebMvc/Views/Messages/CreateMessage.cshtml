@@ -1,0 +1,144 @@
+@using RedBadgeProject.Models.Messages
+@model List<MessagesModel>
+
+@{
+    ViewData["Title"] = "Inbox";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - FitnessBuddy</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand d-flex justify-content-center w-100" asp-area="" asp-action="UserPage" asp-controller="Account">FitnessBuddy</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-action="Login" asp-controller="Account">
+                                Logout
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+
+    <div class="container inbox-container">
+        <h1 class="inbox-heading">Inbox</h1>
+
+        @if (Model != null && Model.Count > 0)
+        {
+            <ul class="list-group">
+                @foreach (var message in Model)
+                {
+                    <li class="list-group-item">
+                        <div class="message-header">
+                            <div class="message-sender">To: @message.SenderName</div>
+                            <div class="message-subject">Subject: @message.Subject</div>
+                        </div>
+                        <div class="message-content">@message.Content</div>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p class="no-messages text-muted">No messages in the inbox.</p>
+        }
+
+        <h2 class="compose-heading">Compose a New Message</h2>
+        <form method="post" asp-action="CreateMessage" class="compose-form">
+            <div class="form-group">
+                <label for="recipient">To:</label>
+                <input type="text" id="recipient" name="recipient" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" name="subject" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="content">Message:</label>
+                <textarea id="content" name="content" rows="8" class="form-control" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send</button>
+        </form>
+    </div>
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .inbox-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .inbox-heading {
+            margin-bottom: 20px;
+            color: #007bff;
+        }
+
+        .list-group-item {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            background-color: #f7f7f7;
+        }
+
+        .message-header {
+            margin-bottom: 10px;
+        }
+
+        .message-sender {
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        .message-subject {
+            font-weight: bold;
+        }
+
+        .no-messages {
+            font-style: italic;
+        }
+
+        .no-messages::before {
+            content: "\\2713"; 
+            margin-right: 5px;
+            color: #6c757d;
+        }
+
+        .compose-heading {
+            margin-top: 40px;
+            margin-bottom: 20px;
+            color: #007bff;
+        }
+
+        .compose-form {
+            max-width: 600px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 
+        }
+        </style>
+
+
+
+
+

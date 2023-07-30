@@ -1,0 +1,48 @@
+@model List<RedBadgeProject.Models.Class.UserClassModel>
+
+@{
+    ViewData["Title"] = "User Page";
+}
+
+<h1>User Classes</h1>
+
+@foreach (var userClass in Model)
+{
+    <p>@userClass.Name</p>
+    <p>@userClass.Email</p>
+
+    <form method="post" action="/UserClass/Register">
+        <input type="hidden" name="userClassId" value="@userClass.Id" />
+        <div>
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required />
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required />
+        </div>
+        <div>
+            <label>Pick a Class:</label>
+            @foreach (var availableClass in userClass.Classes)
+            {
+                <div>
+                    <input type="radio" id="@availableClass.Zoomba" name="selectedClass" value="@availableClass.Zoomba" />
+                    <label for="@availableClass.Zoomba">Zoomba</label>
+                </div>
+                <div>
+                    <input type="radio" id="@availableClass.Yoga" name="selectedClass" value="@availableClass.Yoga" />
+                    <label for="@availableClass.Yoga">Yoga</label>
+                </div>
+            }
+        </div>
+        <div>
+            <input type="submit" value="Register" />
+        </div>
+    </form>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+}
+
+
